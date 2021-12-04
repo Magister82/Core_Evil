@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core_Evil", "Core_Evil\Core_Evil.csproj", "{97CE3E9E-207E-4DD9-BF26-6B40DF8B4E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97CE3E9E-207E-4DD9-BF26-6B40DF8B4E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CE3E9E-207E-4DD9-BF26-6B40DF8B4E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CE3E9E-207E-4DD9-BF26-6B40DF8B4E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CE3E9E-207E-4DD9-BF26-6B40DF8B4E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {330DF191-A978-47DB-B9C1-786DBA55EA24}
+	EndGlobalSection
+EndGlobal
